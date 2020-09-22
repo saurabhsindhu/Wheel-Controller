@@ -1,4 +1,4 @@
-KYWheelTabController
+Wheel-Controller
 
 
 ## Installation
