@@ -1,4 +1,4 @@
-Wheel-Controller with a hole
+Wheel Controller with a hole
 
 ![alt text](https://bytethisapp.co.in/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202020-09-22%20at%2017.13.33.png)
 
